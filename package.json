@@ -1,0 +1,27 @@
+{
+  "name": "ikya",
+  "private": true,
+  "version": "0.1.0",
+  "description": "web application",
+  "main": "app.js",
+  "author": "Anand Tiwari <anandtiwari192@gmail.com>",
+  "contributors": [
+    {
+      "name": "Anand Tiwari",
+      "email": "anandtiwari192@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anand-tiwari/simplewebapp.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+  }
+}
